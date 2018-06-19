@@ -1,0 +1,48 @@
+/*==============================================
+Author: Vivien Renee
+===============================================*/
+html {
+	font-family: sans-serif;
+	font-size: 62.5%;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+		
+}
+
+body {
+	font-size: 14px;
+	margin: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #ffffe6;
+}
+	
+/*================== H1 Photo and vivien renee: software developer ================*/
+.picture {
+	Position: relative;
+	top: -35px;
+	
+	
+}
+	
+	
+h1 {
+   
+    text-align: center;
+}
+
+
+ul {
+   
+    margin: 0;
+    padding: 14px;
+	border: 3px solid #555;
+}
+
+li {
+	
+	display: inline;
+}
+
