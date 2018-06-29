@@ -18,21 +18,26 @@ body {
 	color: #333;
 	background-color: #ffffe6;
 }
+
+
 	
 /*================== H1 Photo and vivien renee: software developer ================*/
-.picture {
-	Position: relative;
-	top: -35px;
+
+
+
+img {
+	width:15%;
+	margin:0px 300px 0px 0px;
+	
 	
 	
 }
-	
-	
 h1 {
    
-    text-align: center;
-}
-
+    text-align: left;
+	
+	
+}	
 
 ul {
    
